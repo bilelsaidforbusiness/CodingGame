@@ -1,0 +1,2 @@
+"# CodingGame" 
+"# AsciiArt: scanChar" 
